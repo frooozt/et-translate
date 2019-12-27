@@ -138,7 +138,7 @@
         "No limit": "Неограничено",
         "Worth of the skin the user has to sell has to be atleast": "Скин, который клиент должен выставить на рынок должен стоить не меньше",
         "Worth of the skin you sell has to be atleast": "Стоимость скина, который вы должны продать должна быть не меньше",
-        "LUXURY": "VIP case",
+        "LUXURY": "VIP кейс",
         "Featured": "Рекомендуемые",
         "Value": "Ценность",
         "Get your free case now!": "Получи бесплатный кейс прямо сейчас!",
@@ -158,12 +158,12 @@
         "I don't care about cookies!": "Я не хочу больше читать про cookies!",
         "Okay": "ОК",
         "/partnership": "/partnership/партнерство"
-        "Gold rush" :  "Золотая лихорадка" 
-        "Golden Luck" :  "Всё или ничего"
-        "Blue Ice" : "Сибирский холод"
+        "GOLD RUSH" :  "Золотая лихорадка" 
+        "GOLDEN LUCK" :  "Всё или ничего"
+        "BLUE ICE" : "Сибирский холод"
         "Astronaut" : "Киберпанк" 
         "Neon Rider" : "Неоновый Урбан"
-        "AK Dream" : "AK 47 forever"
+        "AK DREAM" : "AK 47 forever"
         "10 % Knife" : "10% на дроп ножа"
         "Stick it!" : "Стикер Кейс"
         "Free" : "Бесплатный Кейс"
@@ -180,7 +180,16 @@
         "Socials" : "Социальные сети"
         "New Year" : "Новогодний" 
         "DEMON" : "Жуткий Кейс" 
-        "Economy Knife" : "Доступный кейс с ножом"
+        "ECONOMY KNIFE" : "Доступный кейс с ножом"
+        "WEEKLY FREE" : "Еженедельный бесплатный кейс"
+        "LATE CHRISTMAS" : "Рождественский кейс"
+        "SILVER COIN" : "Серебрянный кейс"
+        "YT SUBSCRIBER" : "кейс за подписку на YouTube"
+        "VK FOLLOWER" : "кейс за подписку VK"
+        "INSTA FOLLOWER" : "кейс за подписку в Instagram"
+        "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin." : "Пожалуйста, убедитесь, что количество предложений на рынке не превышает 2 500 для выставленного вами предмета."
+        "Gold value" : " Стоимость в золоте" 
+  
 
         
     }
